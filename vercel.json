@@ -20,7 +20,7 @@
     "APP_NAME": "Alianza Sureña",
     "APP_ENV": "production",
     "APP_DEBUG": "false",
-    "APP_URL": "https://asudeg.vercel.app/",
+    "APP_URL": "https://asudeg0.vercel.app/",
     "CACHE_DRIVER": "array",
     "LOG_CHANNEL": "stderr",
     "SESSION_DRIVER": "array",
